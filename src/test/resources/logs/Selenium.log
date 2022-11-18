@@ -1,58 +1,58 @@
-10:29:24,613 DEBUG devpinoyLogger<strong>{1}</strong>:98 - chrome invoked successfuly
-10:29:26,396 DEBUG devpinoyLogger<strong>{1}</strong>:111 - Browser launced successfuly
-10:29:29,587 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xbankmlogin successfully
-10:29:30,438 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:30,439 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:30,442 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:30,444 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:30,444 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:32,532 DEBUG devpinoyLogger<strong>{1}</strong>:34 - addCusttestgetting sss
-10:29:33,074 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xaddCust successfully
-10:29:33,972 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xfname and entered  sat successfully
-10:29:34,218 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xlname and entered  ja successfully
-10:29:34,465 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xpcode and entered  44.0 successfully
-10:29:34,836 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
-10:29:35,354 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:35,355 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:35,358 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:35,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:35,359 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:35,560 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xaddCust successfully
-10:29:35,722 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xfname and entered  ja1 successfully
-10:29:35,961 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xlname and entered  sat1 successfully
-10:29:36,139 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xpcode and entered  cg22 successfully
-10:29:36,260 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
-10:29:36,694 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:36,695 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:36,696 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:36,696 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:36,696 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:36,817 DEBUG devpinoyLogger<strong>{1}</strong>:34 - openAccountTestgetting sss
-10:29:37,003 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
-10:29:37,807 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Hermoine Granger successfully
-10:29:38,138 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Rupee successfully
-10:29:38,357 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
-10:29:38,811 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:38,811 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:38,812 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:38,813 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:38,816 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:39,046 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
-10:29:39,258 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Harry Potter successfully
-10:29:39,492 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Rupee successfully
-10:29:39,686 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
-10:29:40,185 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:40,186 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:40,187 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:40,188 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:40,189 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:40,555 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
-10:29:40,824 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Ron Weasly successfully
-10:29:41,140 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Dollar successfully
-10:29:41,329 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
-10:29:41,722 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
-10:29:41,724 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
-10:29:41,725 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-10:29:41,726 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-10:29:41,726 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-10:29:43,609 DEBUG devpinoyLogger<strong>{1}</strong>:208 - completed the test successfully
+18:39:18,232 DEBUG devpinoyLogger<strong>{1}</strong>:98 - chrome invoked successfuly
+18:39:21,220 DEBUG devpinoyLogger<strong>{1}</strong>:111 - Browser launced successfuly
+18:39:26,255 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xbankmlogin successfully
+18:39:26,769 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:26,771 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:26,773 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:26,774 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:26,775 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:27,461 DEBUG devpinoyLogger<strong>{1}</strong>:34 - addCusttestgetting sss
+18:39:27,632 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xaddCust successfully
+18:39:27,986 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xfname and entered  sat successfully
+18:39:28,196 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xlname and entered  ja successfully
+18:39:28,364 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xpcode and entered  44.0 successfully
+18:39:28,529 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
+18:39:30,516 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:30,517 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:30,519 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:30,520 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:30,520 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:30,697 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xaddCust successfully
+18:39:30,833 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xfname and entered  ja1 successfully
+18:39:31,064 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xlname and entered  sat1 successfully
+18:39:31,312 DEBUG devpinoyLogger<strong>{1}</strong>:140 - The xpcode and entered  cg22 successfully
+18:39:31,448 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
+18:39:31,860 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:31,862 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:31,863 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:31,864 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:31,864 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:31,988 DEBUG devpinoyLogger<strong>{1}</strong>:34 - openAccountTestgetting sss
+18:39:32,118 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
+18:39:32,563 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Hermoine Granger successfully
+18:39:32,862 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Rupee successfully
+18:39:33,141 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
+18:39:33,592 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:33,593 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:33,594 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:33,594 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:33,594 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:33,787 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
+18:39:33,989 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Harry Potter successfully
+18:39:34,319 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Rupee successfully
+18:39:34,535 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
+18:39:34,949 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:34,950 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:34,951 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:34,952 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:34,952 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:35,148 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xopenAccount successfully
+18:39:35,386 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xuserSelect and entered  Ron Weasly successfully
+18:39:35,696 DEBUG devpinoyLogger<strong>{1}</strong>:159 - The xcurrencySelect and entered  Dollar successfully
+18:39:35,901 DEBUG devpinoyLogger<strong>{1}</strong>:120 - clicked the xcussub successfully
+18:39:36,303 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+18:39:36,304 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+18:39:36,305 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+18:39:36,305 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+18:39:36,306 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Daisy/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+18:39:37,632 DEBUG devpinoyLogger<strong>{1}</strong>:208 - completed the test successfully
